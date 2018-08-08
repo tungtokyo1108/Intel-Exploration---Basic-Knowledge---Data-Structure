@@ -2,6 +2,8 @@
  * HashTable.h
  *
  *  Created on: Aug 7, 2018
+ *  Completed on: Aug 9, 2018 
+ *
  *      Author: tungdang
  */
 
