@@ -2,7 +2,7 @@
  * BitSet.h
  *
  *  Created on: Jul 27, 2018
- *      Author: tungdang
+ *      Student (Coder): Tung Dang
  */
 
 #ifndef BITSET_H_
