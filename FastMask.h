@@ -2,7 +2,7 @@
  * FastMask.h
  *
  *  Created on: Jul 29, 2018
- *      Author: tungdang
+ *      Student (Coder): Tung Dang
  */
 
 #ifndef FASTMASK_H_
