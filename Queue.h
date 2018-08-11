@@ -2,7 +2,7 @@
  * Queue.h
  *
  *  Created on: Jul 31, 2018
- *      Author: tungdang
+ *      Student (Coder): Tung Dang
  */
 
 #ifndef QUEUE_H_
