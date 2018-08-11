@@ -2,7 +2,7 @@
  * Pointer.h
  *
  *  Created on: Jul 30, 2018
- *      Author: tungdang
+ *      Student (Coder): Tung Dang
  */
 
 #ifndef POINTER_H_
