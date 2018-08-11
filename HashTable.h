@@ -4,7 +4,7 @@
  *  Created on: Aug 7, 2018
  *  Completed on: Aug 9, 2018 
  *
- *      Author: tungdang
+ *      Student (Coder): Tung Dang
  */
 
 #ifndef HASHTABLE_H_
