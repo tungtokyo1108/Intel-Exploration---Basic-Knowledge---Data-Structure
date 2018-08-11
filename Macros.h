@@ -2,7 +2,7 @@
  * Macros.h
  *
  *  Created on: Jul 26, 2018
- *      Author: tungdang
+ *      Student (Coder): Tung Dang
  */
 
 #ifndef MACROS_H_
