@@ -2,7 +2,7 @@
  * utility.h
  *
  *  Created on: Jul 19, 2018
- *      Author: tungdang
+ *      Student (Coder): Tung Dang
  */
 
 #ifndef UTILITY_H_
