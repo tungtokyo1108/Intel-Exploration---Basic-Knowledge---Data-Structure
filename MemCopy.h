@@ -2,7 +2,7 @@
  * MemCopy.h
  *
  *  Created on: Jul 22, 2018
- *      Author: tungdang
+ *      Student (Coder): Tung Dang
  */
 
 #ifndef MEMCOPY_H_
