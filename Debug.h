@@ -2,7 +2,7 @@
  * Debug.h
  *
  *  Created on: Jul 19, 2018
- *      Author: tungdang
+ *      Student (Coder): Tung Dang
  */
 
 #ifndef DEBUG_H_
