@@ -2,7 +2,7 @@
  * String.h
  *
  *  Created on: Aug 2, 2018
- *      Author: tungdang
+ *      Student (Coder): Tung Dang
  */
 
 #ifndef STRING_H_
