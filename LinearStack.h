@@ -2,7 +2,7 @@
  * LinearStack.h
  *
  *  Created on: Aug 5, 2018
- *      Author: tungdang
+ *      Student (Coder): Tung Dang
  */
 
 #ifndef LINEARSTACK_H_
