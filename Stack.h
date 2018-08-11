@@ -2,7 +2,7 @@
  * Stack.h
  *
  *  Created on: Aug 4, 2018
- *      Author: tungdang
+ *      Student (Coder): Tung Dang
  */
 
 #ifndef STACK_H_
