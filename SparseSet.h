@@ -2,7 +2,7 @@
  * SparseSet.h
  *
  *  Created on: Aug 3, 2018
- *      Author: tungdang
+ *      Student (Coder): Tung Dang
  */
 
 #ifndef SPARSESET_H_
